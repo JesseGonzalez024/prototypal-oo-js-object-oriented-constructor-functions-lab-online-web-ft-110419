@@ -4,6 +4,6 @@ function Scooter(){
 function Driver(){
   
 }
-function (){
+function PickupLocation(){
   
 }

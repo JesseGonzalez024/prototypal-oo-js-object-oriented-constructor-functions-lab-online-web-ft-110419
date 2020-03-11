@@ -1,1 +1,3 @@
-Scooter
+function Scooter(){
+  
+}
